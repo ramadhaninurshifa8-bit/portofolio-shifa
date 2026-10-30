@@ -8,7 +8,7 @@ def tampilkan():
 
     with kiri:
         st.image(
-            "pages/poto.cipa.jpeg",
+            "pages/potocipa.jpeg",
             caption="Nur Shifa Ramadhani",
             width=220
         )
